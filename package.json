@@ -1,0 +1,28 @@
+{
+  "name": "gm-supervalue",
+  "version": "1.0.0",
+  "description": "Greasemonkey Library to Store/Load Values",
+  "main": "gm-supervalue.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfish/gm-supervalue.git"
+  },
+  "keywords": [
+    "greasemonkey",
+    "userscript",
+    "tampermonkey",
+    "store"
+  ],
+  "author": "Selfish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfish/gm-supervalue/issues"
+  },
+  "homepage": "https://github.com/selfish/gm-supervalue#readme",
+  "dependencies": {
+    "eslint": "^7.24.0"
+  }
+}
